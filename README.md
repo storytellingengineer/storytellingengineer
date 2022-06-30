@@ -34,7 +34,6 @@ I am a Data and Technology enthusiast person with good visualizing & storytellin
 
 ## Deep Learning
 ![pytorch](https://img.shields.io/badge/Pytorch-purple?style=flat-square&logo=pytorch&logoColor=white)
-![FastAI](https://img.shields.io/badge/FastAI-purple?style=flat-square&logo=fastai&logoColor=white)
 ![keras](https://img.shields.io/badge/Keras-purple?style=flat-square&logo=keras&logoColor=white)
 
 ## Cloud
