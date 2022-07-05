@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 ### My name is Aayush Saxena 🤗 
- <a href="https://www.linkedin.com/in/saxenaaayush97/">
+ <a href="https://www.linkedin.com/in/aayushsaxena08/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/storywithaayush">
