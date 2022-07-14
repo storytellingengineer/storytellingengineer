@@ -28,8 +28,6 @@ I am a Data and Technology enthusiast person with good visualizing & storytellin
 ![pandas](https://img.shields.io/badge/Pandas-orange?style=flat-square&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/Numpy-orange?style=flat-square&logo=numpy&logoColor=white)
 ![scikitlearn](https://img.shields.io/badge/Scikit--learn-orange?style=flat-square&logo=scikitlearn&logoColor=white)
-![tqdm](https://img.shields.io/badge/tqdm-orange?style=flat-square&logo=tqdm&logoColor=white)
-![selenium](https://img.shields.io/badge/Selenium-orange?style=flat-square&logo=selenium&logoColor=white)
 ![plotly](https://img.shields.io/badge/Plotly-orange?style=flat-square&logo=plotly&logoColor=white)
 
 ## Deep Learning
