@@ -10,7 +10,7 @@
 <a href="mailto:m.aayushsaxena@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://whatsapp.com/dl/">
+<a href="https://wa.me/message/UYJA6N2DSQ7RC1">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" />
 </a>
 <br>
