@@ -50,7 +50,7 @@ I am a Data and Technology enthusiast person with good visualizing & storytellin
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./asset/icons/aws.png" width="65px"/>
-                <br /> FastAPI
+                <br /> AWS
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./asset/icons/docker.png" width="65px"/>
