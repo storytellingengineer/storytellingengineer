@@ -21,7 +21,7 @@
 
 I am a Data and Technology enthusiast person with good visualizing & storytelling skills. Proficient in building statistical & predictive models. Capable of analyzing, developing, testing and deploying end to end ML pipeline in Python. High level knowledge of mathematics behind ML algorithms. Loves to post tech related content on LinkedIn.
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://www.linkedin.com/in/aayushsaxena08/"></a>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://www.linkedin.com/in/thestorytellingengineer/"></a>
 
 ## Tech skills
 
@@ -63,6 +63,6 @@ I am a Data and Technology enthusiast person with good visualizing & storytellin
 
 ## Github Stats
 
-![Aayush Saxena Github stats](https://github-readme-stats.vercel.app/api?username=AayushSaxena08&show_icons=true&theme=radical)
+![Aayush Saxena Github stats](https://github-readme-stats.vercel.app/api?username=thestorytellingengineer&show_icons=true&theme=radical)
 
 ### To have a look at my list of repositories, check out the pinned repository **below** 👇
