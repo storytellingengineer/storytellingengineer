@@ -21,7 +21,7 @@
 
 I am a Data and Technology enthusiast person with good visualizing & storytelling skills. Proficient in building statistical & predictive models. Capable of analyzing, developing, testing and deploying end to end ML pipeline in Python. High level knowledge of mathematics behind ML algorithms. Loves to post tech related content on LinkedIn.
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) <a href="https://www.linkedin.com/in/storytellingengineer/"></a>
+!<a href="https://www.linkedin.com/in/storytellingengineer/">[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ## Tech skills
 
