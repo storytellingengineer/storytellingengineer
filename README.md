@@ -10,10 +10,13 @@
 
 ---
 
-<div id="header" align="center">
-  <div id="badges" align="center">
+<div id="header">
+  <div id="badges">
     <a href="https://www.linkedin.com/in/storytellingengineer/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://storytellingengineer.github.io/">
+      <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://twitter.com/storytellingengineer">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -23,9 +26,6 @@
     </a>
     <a href="https://wa.me/919672121399">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-    </a>
-    <a href="https://storytellingengineer.github.io/">
-      <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://github.com/storytellingengineer/storytellingengineer/blob/main/asset/Aayush_DataScience_CV.pdf">
       <img src="https://img.shields.io/badge/My_Resume-Download-red?style=for-the-badge&logo=icloud&logoColor=white" alt="Resume"/>
