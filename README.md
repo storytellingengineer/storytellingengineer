@@ -63,6 +63,6 @@ I am a Data and Technology enthusiast person with good visualizing & storytellin
 
 ## Github Stats
 
-![Aayush Saxena Github stats](https://github-readme-stats.vercel.app/api?username=thestorytellingengineer&show_icons=true&theme=radical)
+![Aayush Saxena Github stats](https://github-readme-stats.vercel.app/api?username=storytellingengineer&show_icons=true&theme=radical)
 
 ### To have a look at my list of repositories, check out the pinned repository **below** 👇
