@@ -1,9 +1,16 @@
+<div>
+
 ### Namaste! I'm Aayush Saxena 👋
+
+**_Researcher in Machine Learning & Generative AI | Exploring LLMs, RAG Systems, and Scalable AI Pipelines_**
+
+<img src="https://komarev.com/ghpvc/?username=aayushsaxena08&color=green" alt="Profile views" />
+
+</div>  
 
 ---
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushsaxena08&color=green" alt="Profile views" />
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/storytellingengineer/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -30,21 +37,19 @@
 
 ## The Story So Far 🚀  
 
-I’m a **Machine Learning & Generative AI Engineer** with a unique blend of **academic depth (M.Tech in Applied Artificial Intelligence)** and **hands-on industry experience**.  
+I’m a **Machine Learning & Generative AI Engineer** with an academic foundation in **M.Tech (Applied Artificial Intelligence)** and hands-on experience in building real-world AI systems.  
 
-My journey has been about merging two worlds:  
-- **Research & Foundations** – exploring advanced algorithms, optimization, and ML architectures during my M.Tech.  
-- **Applied AI** – deploying scalable pipelines, vector search, and GenAI systems in real-world projects.  
+At my core, I enjoy asking **research-driven questions** and then bridging them with **practical engineering**.  
+- During my **M.Tech**, I explored advanced algorithms, optimization, and deep learning architectures.  
+- In industry and personal projects, I’ve applied those foundations to build **end-to-end ML pipelines, vector search systems, and RAG-based GenAI applications**.  
 
-Alongside my professional work, I actively share learnings through my **#90DaysOfAI series on LinkedIn**, where I break down complex AI topics into easy, actionable insights. This not only keeps me at the edge of new tech but also helps others grow in their AI journey.  
+Beyond projects, I actively share knowledge through my **#90DaysOfAI series on LinkedIn**, where I break down complex AI concepts into accessible insights. This reflects not only my curiosity to learn but also my passion to contribute to the AI community.  
 
 Currently, I’m diving deep into:  
 - **Generative AI** – building with **LLMs, LangChain, RAG pipelines, and fine-tuning models**.  
 - **Vector Databases** – Milvus, Pinecone, Weaviate, FAISS for **retrieval-augmented generation (RAG)**.  
 - **AI Deployment** – containerization with **Docker & Kubernetes**, scaling on **AWS/GCP/Vertex AI**.  
 - **Full-Stack AI Apps** – blending **Python, FastAPI, and React** for production-ready solutions.  
-
-When I’m not experimenting with AI systems, you’ll find me **writing about tech, mentoring peers, and storytelling through data**.  
 
 
 ---
@@ -101,5 +106,10 @@ Here’s the stack I use to transform raw ideas into intelligent solutions 👇
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=storytellingengineer&show_icons=true&theme=radical" alt="Aayush Saxena Github stats" />
 </div>
+
+
+---
+
+When I’m not experimenting with AI systems, you’ll find me **writing about tech, mentoring peers, and storytelling through data**.
 
 ---
