@@ -1,19 +1,19 @@
-<div>
+<div align="center">
 
-### Namaste! I'm Aayush Saxena 👋
+## Namaste! I'm Aayush Saxena 👋  
+### Machine Learning & Generative AI Engineer | Building Intelligent Systems at Scale  
 
-**_Researcher in Machine Learning & Generative AI | Exploring LLMs, RAG Systems, and Scalable AI Pipelines_**
+_Exploring LLM Architectures, RAG Pipelines, and Production-Ready AI Applications_
 
-<img src="https://komarev.com/ghpvc/?username=aayushsaxena08&color=green" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=storytellingengineer&color=green" alt="Profile views" />
 
-</div>  
+</div>
 
 ---
 
-<div id="header">
-  <div id="badges">
+<div align="center">
     <a href="https://www.linkedin.com/in/storytellingengineer/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://storytellingengineer.github.io/">
       <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -30,14 +30,13 @@
     <a href="https://github.com/storytellingengineer/storytellingengineer/blob/main/asset/Aayush_DataScience_CV.pdf">
       <img src="https://img.shields.io/badge/My_Resume-Download-red?style=for-the-badge&logo=icloud&logoColor=white" alt="Resume"/>
     </a>
-  </div>
 </div> 
 
 ---
 
-## The Story So Far 🚀  
+## About Me — The Engineer Behind the Models 🚀  
 
-I’m a **Machine Learning & Generative AI Engineer** with an academic foundation in **M.Tech (Applied Artificial Intelligence)** and hands-on experience in building real-world AI systems.  
+I’m a **Machine Learning & Generative AI Engineer** with an **M.Tech in Applied Artificial Intelligence**, focused on building **real-world, scalable AI systems** — not just experiments.
 
 At my core, I enjoy asking **research-driven questions** and then bridging them with **practical engineering**.  
 - During my **M.Tech**, I explored advanced algorithms, optimization, and deep learning architectures.  
@@ -50,7 +49,6 @@ Currently, I’m diving deep into:
 - **Vector Databases** – Milvus, Pinecone, Weaviate, FAISS for **retrieval-augmented generation (RAG)**.  
 - **AI Deployment** – containerization with **Docker & Kubernetes**, scaling on **AWS/GCP/Vertex AI**.  
 - **Full-Stack AI Apps** – blending **Python, FastAPI, and React** for production-ready solutions.  
-
 
 ---
 
@@ -110,6 +108,8 @@ Here’s the stack I use to transform raw ideas into intelligent solutions 👇
 
 ---
 
-When I’m not experimenting with AI systems, you’ll find me **writing about tech, mentoring peers, and storytelling through data**.
+⭐ If you find my work useful, consider starring the repos and following along! 
+
+Feel free to connect — I love collaborating on meaningful tech.
 
 ---
