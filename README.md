@@ -108,33 +108,33 @@ Experiments span:
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-`Python` `SQL`
+### AI / ML
 
-**Machine Learning & Deep Learning**
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&perline=8" alt="AI and ML stack" />
 
-`PyTorch` `TensorFlow` `scikit-learn` `XGBoost`
+### LLM & AI Systems
 
-**Generative AI**
+<img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,mongodb&perline=8" alt="AI systems and backend stack" />
 
-`LLMs` `RAG` `Prompt Engineering` `LLM-as-a-Judge` `Agentic AI` `Multimodal AI`
+### Cloud, DevOps & Tooling
 
-**Evaluation & AI Quality**
+<img src="https://skillicons.dev/icons?i=aws,gcp,github,githubactions,git,vscode&perline=8" alt="Cloud and developer tooling" />
 
-`LLM Evaluation` `AI Validation` `Regression Testing` `Evaluation Datasets` `Guardrails` `Human-in-the-Loop`
+</div>
 
-**Retrieval & Data**
+**Core:** `Python` · `SQL` · `PyTorch` · `TensorFlow` · `scikit-learn` · `XGBoost`
 
-`FAISS` `Milvus` `Pinecone` `Weaviate` `PostgreSQL` `MongoDB`
+**GenAI:** `LLMs` · `RAG` · `Prompt Engineering` · `LLM-as-a-Judge` · `Agentic AI` · `Multimodal AI`
 
-**Engineering & MLOps**
+**Evaluation:** `AI Validation` · `LLM Evaluation` · `Regression Testing` · `Evaluation Datasets` · `Guardrails` · `Human-in-the-Loop`
 
-`FastAPI` `Docker` `GitHub Actions` `CI/CD` `Experiment Tracking` `Model Monitoring`
+**Retrieval:** `FAISS` · `Milvus` · `Pinecone` · `Weaviate` · `Embeddings` · `Hybrid Search`
 
-**Cloud**
+**Engineering:** `FastAPI` · `Docker` · `GitHub Actions` · `CI/CD` · `MLOps` · `Model Monitoring` · `Experiment Tracking`
 
-`AWS` `GCP` `Vertex AI`
+**Cloud:** `AWS` · `GCP` · `Vertex AI`
 
 ---
 
@@ -181,7 +181,9 @@ I'm less interested in collecting frameworks and more interested in understandin
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=storytellingengineer&show_icons=true&theme=radical" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=storytellingengineer&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
 </div>
 
 ---
