@@ -1,9 +1,10 @@
 <div align="center">
 
-## Aayush Saxena  
-### Machine Learning & Generative AI Engineer | Exploring AI-IOT Integration & MLOps  
+# Aayush Saxena
 
-Designing, deploying, monitoring, and scaling AI systems for real-world use.
+### AI Validation & Testing | GenAI & LLM Systems | AI Evaluation | Agentic AI
+
+Building, breaking, evaluating, and improving AI systems — from LLM applications and RAG pipelines to agentic workflows and production AI.
 
 <img src="https://komarev.com/ghpvc/?username=storytellingengineer&color=blue" alt="Profile views" />
 
@@ -16,10 +17,7 @@ Designing, deploying, monitoring, and scaling AI systems for real-world use.
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://storytellingengineer.github.io/">
-      <img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-    <a href="https://wa.me/919672121399">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
     <a href="mailto:m.aayushsaxena@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -31,63 +29,152 @@ Designing, deploying, monitoring, and scaling AI systems for real-world use.
 
 ---
 
-## About
+## About Me
 
-I am an **AI Systems Engineer** with 3+ years of experience building **production-grade machine learning and GenAI systems** across insurance and retail domains.
+I work at the intersection of **AI engineering and AI quality**, with a focus on understanding not only how AI systems are built, but also how we can **measure, evaluate, validate, and improve them**.
 
-I focus on the **full lifecycle of AI systems** — from model development and LLM pipelines to scalable deployment, monitoring, and reliability in production. My background spans **predictive ML, multimodal deep learning, and LLM-based systems**, with hands-on ownership of end-to-end workflows rather than isolated experiments.
+I'm a tech enthusiast who enjoys going down the rabbit hole — learning how a system works, building a version of it, testing where it breaks, and then figuring out how to make it better.
 
-I hold an **M.Tech in Applied Artificial Intelligence**, where my research focused on **multimodal deep learning and AI-IoT systems**, giving me a strong foundation in both model design and real-world system constraints.
+My current work and interests span:
 
-My current interests lie in:
-- Production GenAI systems (RAG, agentic workflows, evaluation)
-- Scalable model serving and inference optimization
-- MLOps, monitoring, and reliability for AI systems
-- Cost-aware deployment of LLM-based applications
+- **Generative AI & LLM applications**
+- **LLM evaluation and AI validation**
+- **RAG and retrieval systems**
+- **LLM-as-a-Judge**
+- **Agentic AI and tool-using systems**
+- **Multimodal AI**
+- **MLOps and production AI systems**
+- **AI observability, reliability, and guardrails**
 
-I value clean system design, measurable performance, and building AI that actually runs reliably in real environments.
+I enjoy turning ideas into working systems and then asking the harder engineering questions:
+
+> Does it work reliably?
+> How do we measure it?
+> How do we detect regressions?
+> What happens when the system fails?
+> How do we make it production-ready?
+
+My GitHub is where I document that journey through **projects, experiments, research, and practical implementations**.
 
 ---
 
-## Tech Stack & Systems Tooling
+## What I'm Building
 
-**Languages & Core ML**
-- Python, SQL
-- PyTorch, TensorFlow, scikit-learn, XGBoost
-- Classical ML, deep learning, ensemble methods
+### AI Evaluation & Validation
 
-**Generative AI & LLM Systems**
-- LLM-based applications (RAG, agentic workflows)
-- Prompt engineering, prompt versioning, and evaluation
-- Fine-tuning and PEFT techniques (LoRA)
-- Guardrails, safety filters, and human-in-the-loop feedback
-- LLM evaluation: quality, hallucination analysis, and response scoring
+Building an **AI Evaluation Platform** focused on systematic evaluation of LLM, RAG, and agentic AI systems.
 
-**Retrieval & Vector Systems**
-- Vector databases: Milvus, FAISS, Pinecone, Weaviate
-- Embedding strategies, chunking, and retrieval optimization
-- Hybrid search and relevance tuning for production RAG systems
+Current work includes:
 
-**Model Serving & APIs**
-- Model and LLM inference using FastAPI
-- Docker-based containerization for reproducible deployments
-- Scalable inference patterns (batching, caching, async serving)
+- Deterministic evaluation metrics
+- Evaluation datasets and structured result contracts
+- LLM-as-a-Judge architecture
+- Rubric-based evaluation
+- Judge response validation
+- Evaluation orchestration
+- Automated testing and CI
+- RAG and agent evaluation
+- Quality, latency, cost, and reliability measurement
 
-**MLOps, Monitoring & CI/CD**
-- End-to-end ML pipelines: training → validation → deployment
-- CI/CD pipelines for ML workflows
-- Model versioning, experiment tracking, and rollback strategies
-- Monitoring model performance, drift, latency, and cost
+### JARVIS OS
 
-**Cloud & Infrastructure**
-- Cloud-based ML infrastructure on AWS and GCP
-- Managed ML services (Vertex AI)
-- Designing cost-aware and reliable AI deployments
+Building a personal **AI Operating System** incrementally as a real software project.
 
-**Data & Orchestration**
-- Relational and NoSQL databases (PostgreSQL, MongoDB)
-- Workflow orchestration and data pipelines
-- Handling large-scale, production data workflows
+The long-term vision is a personal AI assistant capable of:
+
+- Conversational interaction
+- Tool calling
+- Persistent memory
+- Web research
+- Personal knowledge / RAG
+- Voice interaction
+- Agent workflows
+- Observability and evaluations
+- Permission and safety controls
+
+### LLM Use-Case Lab
+
+A hands-on laboratory for exploring what modern LLMs can actually do.
+
+The approach is simple:
+
+**Build → Experiment → Compare → Measure → Document → Productionize**
+
+Experiments span:
+
+`Chatbots → Structured Output → Tool Calling → Vision → Documents → Audio → Agents → Evaluation`
+
+---
+
+## Tech Stack
+
+**Languages**
+
+`Python` `SQL`
+
+**Machine Learning & Deep Learning**
+
+`PyTorch` `TensorFlow` `scikit-learn` `XGBoost`
+
+**Generative AI**
+
+`LLMs` `RAG` `Prompt Engineering` `LLM-as-a-Judge` `Agentic AI` `Multimodal AI`
+
+**Evaluation & AI Quality**
+
+`LLM Evaluation` `AI Validation` `Regression Testing` `Evaluation Datasets` `Guardrails` `Human-in-the-Loop`
+
+**Retrieval & Data**
+
+`FAISS` `Milvus` `Pinecone` `Weaviate` `PostgreSQL` `MongoDB`
+
+**Engineering & MLOps**
+
+`FastAPI` `Docker` `GitHub Actions` `CI/CD` `Experiment Tracking` `Model Monitoring`
+
+**Cloud**
+
+`AWS` `GCP` `Vertex AI`
+
+---
+
+## Current Focus
+
+Going deeper into:
+
+**LLM Evaluation → RAG Evaluation → Agent Evaluation → AI Observability → Reliable Agentic Systems**
+
+The goal isn't just to build AI applications.
+
+The goal is to understand **how AI systems behave, where they fail, and how to engineer them to be reliable enough for real-world use**.
+
+---
+
+## Things I Like Exploring
+
+- New LLMs and model capabilities
+- Agent architectures and tool use
+- Evaluation methodologies and benchmarks
+- Multimodal AI
+- RAG architectures and retrieval techniques
+- AI observability and tracing
+- MLOps and inference optimization
+- Open-source AI tooling
+- New developer tools and emerging AI products
+- Turning interesting research ideas into working prototypes
+
+---
+
+## Engineering Philosophy
+
+> **Build first.**
+> **Break it.**
+> **Measure what matters.**
+> **Understand the failure modes.**
+> **Improve systematically.**
+> **Productionize what works.**
+
+I'm less interested in collecting frameworks and more interested in understanding **why a system works**.
 
 ---
 
@@ -98,6 +185,11 @@ I value clean system design, measurable performance, and building AI that actual
 </div>
 
 ---
-⭐ If you find my work useful, consider starring the repos and following along! 
 
-Feel free to connect — I love collaborating on meaningful tech.
+<div align="center">
+
+### Always building. Always experimenting. Always learning.
+
+⭐ If you find something useful here, consider starring the repo and following along.
+
+</div>
