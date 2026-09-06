@@ -138,51 +138,44 @@ Experiments span:
 
 ---
 
-## Current Focus
+## Current Focus — Build, Break, Understand
 
-Going deeper into:
+I'm currently exploring the next layer of AI systems:
 
 **LLM Evaluation → RAG Evaluation → Agent Evaluation → AI Observability → Reliable Agentic Systems**
 
-The goal isn't just to build AI applications.
+Along the way, I'm especially interested in:
 
-The goal is to understand **how AI systems behave, where they fail, and how to engineer them to be reliable enough for real-world use**.
+- Understanding how modern LLMs behave beyond benchmark scores
+- Designing evaluation systems that catch real-world failures
+- Building RAG pipelines and understanding retrieval quality
+- Experimenting with agents, tool use, memory, and multi-step reasoning
+- Exploring multimodal models and new model capabilities
+- Tracing, observing, and debugging AI systems in production
+- Turning research ideas into small working prototypes
+- Exploring open-source AI frameworks, developer tools, and emerging models
 
----
-
-## Things I Like Exploring
-
-- New LLMs and model capabilities
-- Agent architectures and tool use
-- Evaluation methodologies and benchmarks
-- Multimodal AI
-- RAG architectures and retrieval techniques
-- AI observability and tracing
-- MLOps and inference optimization
-- Open-source AI tooling
-- New developer tools and emerging AI products
-- Turning interesting research ideas into working prototypes
+My approach is deliberately hands-on: **if something looks interesting, I build it, break it, measure it, and document what I learn.**
 
 ---
 
 ## Engineering Philosophy
 
-> **Build first.**
-> **Break it.**
-> **Measure what matters.**
-> **Understand the failure modes.**
-> **Improve systematically.**
-> **Productionize what works.**
+I don't want to just collect frameworks or follow every new AI trend. I want to understand **what is happening underneath the abstraction**.
 
-I'm less interested in collecting frameworks and more interested in understanding **why a system works**.
+> **Learn the concept → Build a working version → Break it → Measure the failure → Improve the system → Share what I learned**
+
+That means my interests naturally move between **research papers, model releases, system architecture, evaluation methodologies, open-source projects, developer tooling, and practical experiments**.
+
+The goal is simple: **stay curious, keep building, and develop a deeper understanding of the technology rather than just using it.**
 
 ---
 
-## GitHub Activity
+## GitHub Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=storytellingengineer&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=storytellingengineer&theme=github_dark" alt="GitHub contribution summary" />
 
 </div>
 
