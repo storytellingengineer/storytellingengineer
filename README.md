@@ -62,19 +62,19 @@ My GitHub is where I document that journey through **projects, experiments, rese
 
 Three active threads across my current AI engineering work:
 
-### AI Evaluation & Validation
+### [AI Evaluation & Validation](https://github.com/storytellingengineer/ai-eval-platform)
 
 An **AI Evaluation Platform** focused on systematic evaluation of LLM, RAG, and agentic AI systems.
 
 `Metrics` · `Evaluation Datasets` · `LLM-as-a-Judge` · `Rubrics` · `Regression Testing` · `RAG & Agent Evaluation`
 
-### JARVIS OS
+### [JARVIS OS](https://github.com/storytellingengineer/jarvis_os)
 
 A personal **AI Operating System** being built incrementally as a real software project — moving from conversation and memory toward tools, research, automation, and agent workflows.
 
 `Conversation` · `Tool Calling` · `Memory` · `Web Research` · `RAG` · `Voice` · `Agents` · `Observability`
 
-### LLM Use-Case Lab
+### [LLM Use-Case Lab](https://github.com/storytellingengineer/llm-usecase-lab)
 
 A hands-on laboratory for exploring what modern LLMs can actually do through focused implementations and experiments.
 
