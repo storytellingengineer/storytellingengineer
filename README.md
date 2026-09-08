@@ -60,27 +60,36 @@ My GitHub is where I document that journey through **projects, experiments, rese
 
 ## What I'm Building
 
+I'm currently working on three projects that represent different parts of my AI engineering journey — **building reliable AI systems, understanding what they can do, and turning those learnings into working software.**
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
 ### AI Evaluation & Validation
 
-Building an **AI Evaluation Platform** focused on systematic evaluation of LLM, RAG, and agentic AI systems.
+An **AI Evaluation Platform** for systematic evaluation of LLM, RAG, and agentic AI systems.
 
-Current work includes:
+**Current work**
 
 - Deterministic evaluation metrics
-- Evaluation datasets and structured result contracts
+- Evaluation datasets & structured result contracts
 - LLM-as-a-Judge architecture
 - Rubric-based evaluation
 - Judge response validation
 - Evaluation orchestration
-- Automated testing and CI
-- RAG and agent evaluation
-- Quality, latency, cost, and reliability measurement
+- Automated testing & CI
+- RAG & agent evaluation
+- Quality, latency, cost & reliability measurement
+
+</td>
+<td width="33%" valign="top">
 
 ### JARVIS OS
 
-Building a personal **AI Operating System** incrementally as a real software project.
+A personal **AI Operating System** being built incrementally as a real software project.
 
-The long-term vision is a personal AI assistant capable of:
+**Direction**
 
 - Conversational interaction
 - Tool calling
@@ -89,20 +98,27 @@ The long-term vision is a personal AI assistant capable of:
 - Personal knowledge / RAG
 - Voice interaction
 - Agent workflows
-- Observability and evaluations
-- Permission and safety controls
+- Observability & evaluations
+- Permission & safety controls
+
+</td>
+<td width="33%" valign="top">
 
 ### LLM Use-Case Lab
 
-A hands-on laboratory for exploring what modern LLMs can actually do.
+A hands-on laboratory for exploring what modern LLMs can actually do through small, focused implementations.
 
-The approach is simple:
+**Workflow**
 
 **Build → Experiment → Compare → Measure → Document → Productionize**
 
-Experiments span:
+**Experiments**
 
-`Chatbots → Structured Output → Tool Calling → Vision → Documents → Audio → Agents → Evaluation`
+`Chatbots` · `Structured Output` · `Tool Calling` · `Vision` · `Documents` · `Audio` · `Agents` · `Evaluation`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -175,7 +191,7 @@ The goal is simple: **stay curious, keep building, and develop a deeper understa
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=storytellingengineer&theme=github_dark" alt="GitHub contribution summary" />
+<img width="100%" src="https://ghchart.rshah.org/storytellingengineer" alt="GitHub contribution chart" />
 
 </div>
 
