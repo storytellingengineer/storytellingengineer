@@ -60,65 +60,27 @@ My GitHub is where I document that journey through **projects, experiments, rese
 
 ## What I'm Building
 
-I'm currently working on three projects that represent different parts of my AI engineering journey — **building reliable AI systems, understanding what they can do, and turning those learnings into working software.**
-
-<table>
-<tr>
-<td width="33%" valign="top">
+Three active threads across my current AI engineering work:
 
 ### AI Evaluation & Validation
 
-An **AI Evaluation Platform** for systematic evaluation of LLM, RAG, and agentic AI systems.
+An **AI Evaluation Platform** focused on systematic evaluation of LLM, RAG, and agentic AI systems.
 
-**Current work**
-
-- Deterministic evaluation metrics
-- Evaluation datasets & structured result contracts
-- LLM-as-a-Judge architecture
-- Rubric-based evaluation
-- Judge response validation
-- Evaluation orchestration
-- Automated testing & CI
-- RAG & agent evaluation
-- Quality, latency, cost & reliability measurement
-
-</td>
-<td width="33%" valign="top">
+`Metrics` · `Evaluation Datasets` · `LLM-as-a-Judge` · `Rubrics` · `Regression Testing` · `RAG & Agent Evaluation`
 
 ### JARVIS OS
 
-A personal **AI Operating System** being built incrementally as a real software project.
+A personal **AI Operating System** being built incrementally as a real software project — moving from conversation and memory toward tools, research, automation, and agent workflows.
 
-**Direction**
-
-- Conversational interaction
-- Tool calling
-- Persistent memory
-- Web research
-- Personal knowledge / RAG
-- Voice interaction
-- Agent workflows
-- Observability & evaluations
-- Permission & safety controls
-
-</td>
-<td width="33%" valign="top">
+`Conversation` · `Tool Calling` · `Memory` · `Web Research` · `RAG` · `Voice` · `Agents` · `Observability`
 
 ### LLM Use-Case Lab
 
-A hands-on laboratory for exploring what modern LLMs can actually do through small, focused implementations.
-
-**Workflow**
+A hands-on laboratory for exploring what modern LLMs can actually do through focused implementations and experiments.
 
 **Build → Experiment → Compare → Measure → Document → Productionize**
 
-**Experiments**
-
 `Chatbots` · `Structured Output` · `Tool Calling` · `Vision` · `Documents` · `Audio` · `Agents` · `Evaluation`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -191,7 +153,7 @@ The goal is simple: **stay curious, keep building, and develop a deeper understa
 
 <div align="center">
 
-<img width="100%" src="https://ghchart.rshah.org/storytellingengineer" alt="GitHub contribution chart" />
+<img width="100%" src="./asset/github-contributions.svg" alt="GitHub contributions" />
 
 </div>
 
