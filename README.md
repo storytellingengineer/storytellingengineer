@@ -153,7 +153,16 @@ The goal is simple: **stay curious, keep building, and develop a deeper understa
 
 <div align="center">
 
-<img width="100%" src="./asset/github-contributions.svg" alt="GitHub contributions" />
+<table>
+<tr>
+<td valign="top">
+<img src="https://gh-heat.anishroy.com/api/storytellingengineer/svg?theme=green&darkMode=true&showMonthLabels=true&showDayLabels=true&showLegend=true&cellSize=11&cellGap=2" width="100%" alt="GitHub contribution activity" />
+</td>
+<td valign="top">
+<img src="https://streak-stats.demolab.com/?user=storytellingengineer&theme=dark&hide_border=true" width="100%" alt="GitHub contribution streaks" />
+</td>
+</tr>
+</table>
 
 </div>
 
